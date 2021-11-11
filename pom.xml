@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>gatobijoux.config-server</groupId>
 	<artifactId>config-server-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>config-server-api</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
